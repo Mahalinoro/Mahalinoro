@@ -7,3 +7,5 @@
 - I enjoy learning new things :books:
 - I listen to every music genre but I prefer *Metal* :metal: and *K-Pop* :musical_note::kr:
 - I am a big fan of *Japanese Anime* **オタク** :sunrise: :jp: 
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Mahalinoro&show_icons=true&hide=["issues"]&icon_color=EF2858&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
