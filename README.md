@@ -23,8 +23,7 @@
 <img align="left" height=34 width=96 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%208.png">
 <img height=34 width=89 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%2010.png">
 
-<hr></hr>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahalinoro.visitor-badge)            
+<hr></hr>            
 <p align=center>
   <samp align=center><i>reach me on:</i></samp>
 </p>
