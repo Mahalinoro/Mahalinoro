@@ -24,8 +24,9 @@
 <img height=34 width=89 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%2010.png">
 
 <hr></hr>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahalinoro.visitor-badge)            
 <p align=center>
-  <samp align=center>reach me on:</samp>
+  <samp align=center><i>reach me on:</i></samp>
 </p>
 
 <p align=center>
