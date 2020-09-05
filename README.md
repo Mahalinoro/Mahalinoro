@@ -12,16 +12,16 @@
   <li>:metal: I am into Metal and K-POP. </li>
 </ul>
 <h2>Languages & Tools :cherry_blossom:</h2>
-<img align="left" height=34 width=121 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%201.png"> 
-<img align="left" height=34 width=110 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%202.png">
-<img align="left" height=34 width=75 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%203.png">
-<img align="left" height=34 width=93 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%204.png">
-<img height=34 width=76 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%205.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/html%26css.png"> 
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/jv.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/php.png">
+<img src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/ruby.png">
 
-<img align="left" height=34 width=96 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%206.png">
-<img align="left" height=34 width=99 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%207.png">
-<img align="left" height=34 width=96 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%208.png">
-<img height=34 width=89 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/Component%2010.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/flask.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/sql.png">
+<img align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/rails.png">
+<img src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/archlinux.png">
 
 <hr></hr>            
 <p align=center>
