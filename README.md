@@ -2,7 +2,7 @@
 
 <img align='right' height=300 width=450 src="https://wallpapercave.com/wp/wp5055500.gif">
 <p>I'm <strong>Mahalinoro</strong>. I am currently a rising junior in <strong>Computer Science</strong> <a href="https://www.alueducation.com/">@African Leadership University</a> in Kigali, Rwanda. I am into <strong>Python, Data Science, Web Development and UI/UX Design</strong>.</p>
-![](https://komarev.com/ghpvc/?username=Mahalinoro&color=ff69b4&style=flat-square)
+
 <h2>Fun Facts :cherry_blossom:</h2>
 <ul>
   <li>:books: I am currently learning ML on Coursera.</li>
