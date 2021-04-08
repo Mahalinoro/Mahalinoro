@@ -14,11 +14,11 @@
 <h2>Languages & Tools :cherry_blossom:</h2>
 <img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/html.png"> 
 <img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/csss.png">
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png">
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/node.png">
 <img height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/react.png">
 
-<img height=50 width=150 align="left" src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/sql.png">
+<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png">
+<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/node.png">
+<img height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/sql.png">
 
 <hr></hr>      
 <p align=center>
