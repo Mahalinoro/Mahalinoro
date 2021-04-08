@@ -26,7 +26,7 @@
 </p>
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/mahalinoro-razafimanjato-568b19171/"><img margin-right=20 height=30 width=30 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/mahalinoro-razafimanjato-568b19171/"><img height=30 width=30 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/linkedin.png"></a>
    <a href="https://twitter.com/mahalinoro_raz"><img height=30 width=30 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/twitter.png"></a>
   <a href="https://www.instagram.com/m_a_h_a_l_y/"><img height=30 width=30 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/instagram.png"></a>
 </p>
