@@ -5,20 +5,12 @@
 
 <h2>Fun Facts :cherry_blossom:</h2>
 <ul>
-  <li>:books: Currently, learning Flutter.</li>
+  <li>:books: Currently, learning UI/UX.</li>
   <li>:large_blue_diamond: I am into Arch-based linux distros.</li>
   <li>:dog: I am a dog person. </li>
   <li>:speech_balloon: Fluent with English and French. </li>
-  <li>:jp: Gamer and Otaku! </li>
+  <li>:jp: Casual Gamer and Otaku! </li>
 </ul>
-<h2>Languages & Tools :cherry_blossom:</h2>
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/html.png"> 
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/css.png">
-<img height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/react.png">
-
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/python.png">
-<img align="left" height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/node.png">
-<img height=50 width=150 src="https://github.com/Mahalinoro/Mahalinoro/blob/master/assets/sql.png">
 
 <hr></hr>      
 <p align=center>
