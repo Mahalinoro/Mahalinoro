@@ -12,5 +12,5 @@
 </ul>
 
 ---
-> "*All the credits go to my Father in Heaven!*"
+> "*All the credit of my work goes to my Father in Heaven!*"
 
