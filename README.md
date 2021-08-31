@@ -10,5 +10,7 @@
   <li>:speech_balloon: Fluent with English and French. </li>
   <li>🎮 Casual Gamer and Anime Fan! </li>
 </ul>
-   
+
+---
+> "*All the credits go to my Father in Heaven!*"
 
