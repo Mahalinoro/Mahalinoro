@@ -5,7 +5,7 @@
 
 <h2>Fun Facts 🎉</h2>
 <ul>
-  <li>:books: Currently, I am a UX Intern</li>
+  <li>:books: Currently, exploring and learning </li>
   <li>:large_blue_diamond: I am into Arch-based linux distros.</li>
   <li>:speech_balloon: Fluent with English and French. </li>
   <li>🎮 Casual Gamer and Anime Fan! </li>
