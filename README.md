@@ -1,7 +1,7 @@
 <h2 align="center">Hi There! 👋</h2>
 
 <img align='right' height=280 width=380 src="https://wallpapercave.com/wp/wp5055500.gif">
-<p>I'm <strong>Mahalinoro</strong> residing in South Korea pursuing a Master's degree in Comp. Sci & Engineering <a href="https://en.knu.ac.kr/main/main.htm">@KNU</a>. I am doing research on wireless networks and mobile communication such as <strong>5G, 6G, Cell-Free Massive MIMO Network</strong>.</p>
+<p>I'm <strong>Mahalinoro</strong> residing in South Korea pursuing a Master's degree in Comp. Sci & Engineering <a href="https://en.knu.ac.kr/main/main.htm">@KNU</a>. I am interested in Blockchain (Smart Contracts and DApps) as well as network computing.</p>
 
 <h2>Fun Facts 🎉</h2>
 <ul>
