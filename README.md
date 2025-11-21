@@ -3,7 +3,7 @@ print("Hello there!")
 ```
 
 ![](https://komarev.com/ghpvc/?username=Mahalinoro&color=ff69b4)
-<img align='right' height=400 width=400 src="https://wallpapers.com/images/high/cyber-y2-k-aesthetic-desktop-09o4vvphntw8fqb7.jpg" alt="Anime aesthetic">
+<img align='right' height=280 width=380 src="https://wallpapercave.com/wp/wp5055500.gif" alt="Anime aesthetic">
 <p>
   <strong>Status:</strong> 🎓 Master's Graduate (CS & Engineering @ KNU)<br>
   <strong>Skills:</strong> 🗡️ Blockchain | Research | Development | Design <br>
