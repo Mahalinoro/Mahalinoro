@@ -10,12 +10,16 @@ print("Hello there!")
   <strong>Current Quest:</strong> 📜 Building for the decentralized future 
 </p>
 
-⚡ Stats & Facts
+⚡**Stats & Facts:**
 <ul>
   <li>🗣️ <strong>Languages:</strong> English, French, Korean, Malagasy</li>
   <li>⚔️ <strong>Off-Duty:</strong> Casual Gamer & Isekai/Anime Fan</li>
   <li>📚 <strong>Learning:</strong> Constantly exploring new decentralized tech</li>
 </ul>
+
+🎵 **I am listening to:**
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5ksjh347c7nuuhcbti4lcayqa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f16fae&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br clear="all">
 <a href="https://github.com/Mahalinoro/github-readme-stats">
@@ -27,4 +31,4 @@ print("Hello there!")
 
 <br clear="all">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5ksjh347c7nuuhcbti4lcayqa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f16fae&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
